@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/solomon/code/psas/star-tracker-fastify/I-HAVE-TO-USE-C???/main.c
+stdio.h
+-
+cblas.h
+-
+lapacke.h
+-
+

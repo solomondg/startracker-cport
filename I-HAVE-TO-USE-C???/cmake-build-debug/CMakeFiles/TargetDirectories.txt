@@ -1,0 +1,3 @@
+/home/solomon/code/psas/star-tracker-fastify/I-HAVE-TO-USE-C???/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/solomon/code/psas/star-tracker-fastify/I-HAVE-TO-USE-C???/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/solomon/code/psas/star-tracker-fastify/I-HAVE-TO-USE-C???/cmake-build-debug/CMakeFiles/I_HAVE_TO_USE_C___.dir
